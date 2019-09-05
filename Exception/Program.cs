@@ -16,7 +16,7 @@ namespace ExceptionProject {
                 ans = My.Math.Sub(ans, 2);
             
                 ans = My.Math.Mult(200, ans);
-                Console.WriteLine($"Answer is {ans}");
+                Console.WriteLine($"Answer Is {ans}");
             
 
             
